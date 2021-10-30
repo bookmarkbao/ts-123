@@ -1,0 +1,23 @@
+{
+  "name": "ts-123",
+  "version": "1.0.0",
+  "description": "for ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bookmarkbao/ts-123.git"
+  },
+  "keywords": [],
+  "author": "xiangjun（2890594972@qq.com）",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bookmarkbao/ts-123/issues"
+  },
+  "homepage": "https://github.com/bookmarkbao/ts-123#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
